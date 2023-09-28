@@ -1,2 +1,0 @@
-# demo
-demo-gh-pages
